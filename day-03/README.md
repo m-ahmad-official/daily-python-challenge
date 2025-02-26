@@ -10,6 +10,6 @@ Aisa Python program likho jo user se ek number le aur check kare ke wo prime num
 📌 Output: No, it's not a prime number!
 
 ## 💡 Hint: 
-⿡ Prime Number wo hota hai jo sirf 1 aur apne aap se divisible ho.
-⿢ Tum loops (for/while) aur modulus operator (%) ka use kar sakte ho.
-⿣ Edge Cases: 1 aur negative numbers prime nahi hote!
+1. Prime Number wo hota hai jo sirf 1 aur apne aap se divisible ho.
+2. Tum loops (for/while) aur modulus operator (%) ka use kar sakte ho.
+3. Edge Cases: 1 aur negative numbers prime nahi hote!
