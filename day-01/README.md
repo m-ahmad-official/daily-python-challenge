@@ -1,7 +1,7 @@
 # 🐍 Day 1 - Python Challenge: Print Your First Message!
 
 ## 📢 Challenge:
-Apna pehla Python program likho jo screen par ye message print kare:
+Apna pehla Python program likho jo screen per ye message print kare:
 
 "Hello, Python Learners! 🚀 Today is the first step in our coding journey."
 
