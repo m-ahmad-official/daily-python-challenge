@@ -3,7 +3,7 @@
 ## 🚀 Challenge:
 Write a Python program that converts numbers into words! 🔢➡🔡
 
-## 🔥Example:
+## 🔥 Example:
 📌 Input: 123
 📌 Output: "One Hundred Twenty-Three"
 
